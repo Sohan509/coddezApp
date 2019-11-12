@@ -1,0 +1,14 @@
+C:\Users\USER\coddez\coddez.API\bin\Debug\netcoreapp2.2\coddez.API.deps.json
+C:\Users\USER\coddez\coddez.API\bin\Debug\netcoreapp2.2\coddez.API.runtimeconfig.json
+C:\Users\USER\coddez\coddez.API\bin\Debug\netcoreapp2.2\coddez.API.runtimeconfig.dev.json
+C:\Users\USER\coddez\coddez.API\bin\Debug\netcoreapp2.2\coddez.API.dll
+C:\Users\USER\coddez\coddez.API\bin\Debug\netcoreapp2.2\coddez.API.pdb
+C:\Users\USER\coddez\coddez.API\obj\Debug\netcoreapp2.2\coddez.API.csprojAssemblyReference.cache
+C:\Users\USER\coddez\coddez.API\obj\Debug\netcoreapp2.2\coddez.API.csproj.CoreCompileInputs.cache
+C:\Users\USER\coddez\coddez.API\obj\Debug\netcoreapp2.2\coddez.API.RazorAssemblyInfo.cache
+C:\Users\USER\coddez\coddez.API\obj\Debug\netcoreapp2.2\coddez.API.RazorAssemblyInfo.cs
+C:\Users\USER\coddez\coddez.API\obj\Debug\netcoreapp2.2\coddez.API.AssemblyInfoInputs.cache
+C:\Users\USER\coddez\coddez.API\obj\Debug\netcoreapp2.2\coddez.API.AssemblyInfo.cs
+C:\Users\USER\coddez\coddez.API\obj\Debug\netcoreapp2.2\coddez.API.RazorTargetAssemblyInfo.cache
+C:\Users\USER\coddez\coddez.API\obj\Debug\netcoreapp2.2\coddez.API.dll
+C:\Users\USER\coddez\coddez.API\obj\Debug\netcoreapp2.2\coddez.API.pdb
